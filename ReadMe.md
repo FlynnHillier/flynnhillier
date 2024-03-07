@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🏫 Undegraduate Computer Science student studying at the University of Liverpool, UK 📍<!-- <br>🔭 When I have the time I'm working on my java OSRS scripting framework 🤖 -->
+🏫 Undegraduate Computer Science student studying at the University of Liverpool, UK 📍<br>🔭 Currently migrating my chess website from MERN stack to a nextJS, tRPC & drizzle stack 🤖
 <br>
-👯 I'm always eager to collaborate on projects. Get in touch 🔧<br>🌱 I’m currently teaching myself about complex data structures and algorithmic techniques 📈<br>💬 Ask me about typescript, I'll try my best to help 🤓 <br>⚡ Fun fact - I've recently started rock climbing 🧗
+👯 I'm always eager to collaborate on projects. Get in touch 🔧<br>🌱 Working on learning more about complex data structures and algorithmic techniques 📈<br>💬 Ask me about typescript, I'll try my best to help 🤓 <br>⚡ Fun fact - I've recently started rock climbing 🧗
 
 
 ## 🌐 Connnect with me:
