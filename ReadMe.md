@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 🏫 Undegraduate Computer Science student studying at the University of Liverpool, UK 📍<br>🔭 Currently migrating my chess website from MERN stack to a nextJS, tRPC & drizzle stack 🤖
 <br>
