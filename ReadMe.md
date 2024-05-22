@@ -1,6 +1,6 @@
 # About Me:
 
-🏫 Undegraduate Computer Science student studying at the University of Liverpool, UK 📍<br>🔭 Currently migrating my chess website from MERN stack to a nextJS, tRPC & drizzle stack 🤖
+🏫 Undegraduate Computer Science student studying at the University of Liverpool, UK 📍<br>🔭 Currently working on my [multiplayer chess website](https://github.com/FlynnHillier/chessalyze)  🤖
 <br>
 👯 I'm always eager to collaborate on projects. Get in touch 🔧<br>🌱 Working on learning more about complex data structures and algorithmic techniques 📈<br>💬 Ask me about typescript, I'll try my best to help 🤓 <br>⚡ Fun fact - I've recently started rock climbing 🧗
 
