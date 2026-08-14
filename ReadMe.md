@@ -1,6 +1,6 @@
 # About Me:
 
-🏫 Undergraduate Computer Science student studying at the University of Liverpool, UK 📍<br>🔭 Currently designing an end-to-end AI agent driven planning, design & implementation workflow
+🏫 Undergraduate Computer Science student studying at the University of Liverpool, UK 📍<br>🔭 Currently designing an end-to-end AI agent driven planning, design & implementation workflow 🤖
 <br>
 👯 I'm always eager to collaborate on projects. Get in touch 🔧<br>🌱 Exploring whatever's peaked my interest 📈<br>💬 Talk to me about Typescript 🤓 <br>⚡ Fun fact: I love photography & I've recently purchased a Sony A73 camera to start playing around with!
 
