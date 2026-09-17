@@ -2,7 +2,7 @@
 
 🏫 Undergraduate Computer Science student studying at the University of Liverpool, UK 📍<br>🔭 Currently reverse engineering website checkout flows & building automations 🥸🎩
 <br>
-👯 I'm always eager to collaborate on projects. Get in touch 🔧<br>🌱 Always exploring the new & interesting, whatever's peaked my interest 💭<br>⚡ Fun fact: I love photography & I've recently purchased a Sony A73 Camera to start playing around with!
+👯 I'm always eager to collaborate on projects. Get in touch 🔧<br>🌱 Always exploring the new & interesting, whatever's peaked my interest 💭<br>⚡ Fun fact: I love photography & I've recently purchased a Sony A73 Camera to start playing around with! 📸
 
 
 ## 🌐 Connnect with me:
