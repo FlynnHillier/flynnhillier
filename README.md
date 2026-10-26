@@ -17,14 +17,7 @@ I'm also a habitual automator: if something is repetitive, I'll probably end up 
 
 I've been teaching myself to code through side projects for ~7 years, from full-stack web apps to plenty of automation.
 
-Until early this year I worked as a software engineer at [SparkLayer](https://www.sparklayer.io/) for a 13 month Year in Industry placement. Sparklayer adds B2B features to merchant's stores already setup on existing e-commerce platforms like Shopify, Wix and more. 
-
-While I was there, I:
-
-- Built [B2B Catalogs](https://apps.shopify.com/sparklayer-b2b-catalogs) end to end, a Shopify app with 500+ installs and a 5-star rating on the Shopify App Store
-- Led the revamp of our Wix integration, rolling out a new onboarding flow to improve the install-to-live conversion rate
-- Rewrote our Unleashed ERP integration in Go, a language new to me at the time
-- Pitched AI coding tools, ending in a company-wide rollout
+Until early this year I worked as a software engineer at [SparkLayer](https://www.sparklayer.io/) for a 13 month Year in Industry placement, gaining real industry experience working across the product stack.
 
 ## 🔭 Right now
 
