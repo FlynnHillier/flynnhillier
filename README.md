@@ -6,7 +6,7 @@ I like building systems that run themselves: automations, tooling, and lately ag
 
 ## 🤝 Get in touch
 
-Building something interesting, or just want to get in touch?
+Building something interesting, or just want to get in touch?<br>
 <a href="https://www.linkedin.com/in/flynn-hillier/"><img alt="Connect with me on LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 ## 🤖 How I build
 
