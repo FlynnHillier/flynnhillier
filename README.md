@@ -29,7 +29,7 @@ While I was there, I:
 
 ## 🔭 Right now
 
-I'm working on a few things, as and when I find myself with a moment too alongside my studies...
+I'm working on a few things, as and when I find myself with a moment alongside my studies...
 
 - **A web platform for Fairy Chess**, my dissertation project: a multiplayer chess platform with non-standard pieces and custom board sizes
 - **An AI personal assistant** with an understanding of me and my life, used to organise my life and provide me personal insights working over the same notes I do
