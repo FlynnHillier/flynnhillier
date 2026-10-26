@@ -6,10 +6,8 @@ I like building systems that run themselves: automations, tooling, and lately ag
 
 ## 🤝 Get in touch
 
-Building something interesting, or just want to get in touch? Say hello:
-
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flynn-hillier/)
-
+Building something interesting, or just want to get in touch?
+<a href="https://www.linkedin.com/in/flynn-hillier/"><img alt="Connect with me on LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 ## 🤖 How I build
 
 I learned to code the long way, by hand. Nowadays almost all my development goes through AI agents. I lean on them to pressure-test my ideas and do the heavy lifting, while the decisions that shape a system stay mine. My philosophy: delegate the work, never the ownership or the understanding.
