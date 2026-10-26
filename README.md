@@ -36,4 +36,4 @@ The tools I find myself reaching for the most:
 
 - **Photography:** I shoot landscapes, street, and travel, on a Sony A7 III and a Ricoh GR III
 - **Hiking:** chasing sunrise summits, with the odd wild camp, around the UK
-- **Health:** I train regularly and cook with my diet in mind; it keeps me sharp, body and mind
+- **Health:** I train regularly and cook with my diet in mind; looking after myself is what allows me to keep everything else in my life on track
