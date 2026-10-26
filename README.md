@@ -19,14 +19,6 @@ I've been teaching myself to code through side projects for ~7 years, from full-
 
 Prior to starting this academic year, I worked as a Software Engineer at [SparkLayer B2B](https://www.sparklayer.io/) for a 13 month Industrial placement year, gaining real industry experience working across a full product stack.
 
-## 🔭 Right now
-
-I'm working on a few things, as and when I find myself with a moment too alongside my studies...
-
-- **A web platform for Fairy Chess**, my dissertation project: a multiplayer chess platform with non-standard pieces and custom board sizes
-- **An AI personal assistant** with an understanding of me and my life, used to organise my life and provide me personal insights working over the same notes I do
-- **A retail automation tool** for automating processes on retail websites: account sign-ups, raffle entries, and checkouts - fast and at scale.
-
 ## 🧰 What I work with
 
 The tools I find myself reaching for the most:
