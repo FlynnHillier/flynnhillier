@@ -4,6 +4,8 @@ Full-stack developer and final-year BSc Computer Science with AI student at the 
 
 I like building systems that run themselves: automations, tooling, and lately agents that do much of the building with me.
 
+Building something interesting, or just want to get in touch? Say hello. [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flynn-hillier/)
+
 ## 🤖 How I build
 
 I learned to code the long way, by hand. Nowadays almost all my development goes through AI agents. I lean on them to pressure-test my ideas and do the heavy lifting, while the decisions that shape a system stay mine. My philosophy: delegate the work, never the ownership or the understanding.
@@ -51,7 +53,3 @@ The tools I find myself reaching for the most:
 - **Photography:** I shoot landscapes, street, and travel, on a Sony A7 III and a Ricoh GR III
 - **Hiking:** chasing sunrise summits, with the odd wild camp, around the UK
 - **Health:** I train regularly and cook with my diet in mind; it keeps me sharp, body and mind
-
----
-
-Building something interesting, or just want to get in touch? Say hello. [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flynn-hillier/)
