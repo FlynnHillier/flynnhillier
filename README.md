@@ -15,7 +15,7 @@ I'm also a habitual automator: if something is repetitive, I'll probably end up 
 
 ## 📖 Background
 
-I've been teaching myself to code through side projects for ~7 years, spanning full-stack web apps, open-source packages, automation tools, and AI agents.
+I've been teaching myself to code through side projects for ~7 years, spanning full-stack web apps, open-source packages, automation tools, AI agents, and more.
 
 Prior to starting this academic year, I worked as a Software Engineer at [SparkLayer B2B](https://www.sparklayer.io/) for a 13-month industrial placement, gaining real industry experience working across a full product stack.
 
