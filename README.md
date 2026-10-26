@@ -4,8 +4,6 @@ Full-stack developer and final-year BSc Computer Science with AI student at the 
 
 I like building systems that run themselves: automations, tooling, and lately agents that do much of the building with me.
 
-[LinkedIn](https://www.linkedin.com/in/flynn-hillier/) · [flynnhillier@gmail.com](mailto:flynnhillier@gmail.com)
-
 ## 🤖 How I build
 
 I learned to code the long way, by hand. Nowadays almost all my development goes through AI agents. I lean on them to pressure-test my ideas and do the heavy lifting, while the decisions that shape a system stay mine. My philosophy: delegate the work, never the ownership or the understanding.
@@ -18,7 +16,7 @@ I'm also a habitual automator: if something is repetitive, I'll probably end up 
 
 I've been teaching myself to code through side projects for ~7 years, from full-stack web apps to plenty of automation.
 
-Before this academic year I worked as a software engineer at [SparkLayer](https://www.sparklayer.io/) in a 13 month Year in Industry placement. Sparklayer adds B2B features to merchant's stores already setup on existing e-commerce platforms like Shopify, Wix and more. 
+Until early this year I worked as a software engineer at [SparkLayer](https://www.sparklayer.io/) for a 13 month Year in Industry placement. Sparklayer adds B2B features to merchant's stores already setup on existing e-commerce platforms like Shopify, Wix and more. 
 
 While I was there, I:
 
@@ -29,7 +27,7 @@ While I was there, I:
 
 ## 🔭 Right now
 
-I'm working on a few things, as and when I find myself with a moment alongside my studies...
+I'm working on a few things, as and when I find myself with a moment too alongside my studies...
 
 - **A web platform for Fairy Chess**, my dissertation project: a multiplayer chess platform with non-standard pieces and custom board sizes
 - **An AI personal assistant** with an understanding of me and my life, used to organise my life and provide me personal insights working over the same notes I do
@@ -53,3 +51,7 @@ The tools I find myself reaching for the most:
 - **Photography:** I shoot landscapes, street, and travel, on a Sony A7 III and a Ricoh GR III
 - **Hiking:** chasing sunrise summits, with the odd wild camp, around the UK
 - **Health:** I train regularly and cook with my diet in mind; it keeps me sharp, body and mind
+
+---
+
+Building something interesting, or just want to get in touch? [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flynn-hillier/)
