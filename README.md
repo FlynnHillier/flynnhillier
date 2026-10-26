@@ -4,7 +4,7 @@ Full-stack developer and final-year BSc Computer Science with AI student at the 
 
 I like building systems that run themselves: automations, tooling, and lately agents that do much of the building with me.
 
-Building something interesting, or just want to get in touch? Say hello. [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flynn-hillier/)
+Building something interesting, or just want to get in touch? Say hello: <br> [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flynn-hillier/)
 
 ## 🤖 How I build
 
