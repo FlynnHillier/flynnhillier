@@ -54,4 +54,4 @@ The tools I find myself reaching for the most:
 
 ---
 
-Building something interesting, or just want to get in touch? [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flynn-hillier/)
+Building something interesting, or just want to get in touch? Say hello. [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flynn-hillier/)
