@@ -17,7 +17,7 @@ I'm also a habitual automator: if something is repetitive, I'll probably end up 
 
 I've been teaching myself to code through side projects for ~7 years, from full-stack web apps to plenty of automation.
 
-Prior to starting this academic year, I worked as a Software Engineer at [SparkLayer B2B](https://www.sparklayer.io/) for a 13 month Industrial placement year, gaining real industry experience working across a full product stack.
+Prior to starting this academic year, I worked as a Software Engineer at [SparkLayer B2B](https://www.sparklayer.io/) for a 13-month industrial placement, gaining real industry experience working across a full product stack.
 
 ## 🧰 What I work with
 
